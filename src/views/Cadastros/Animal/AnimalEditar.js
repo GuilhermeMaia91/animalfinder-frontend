@@ -113,7 +113,7 @@ class AnimalEditar extends Component{
     var URLIMG = ''
 
     if (photo.thumb !== undefined){
-      URLIMG = `http://localhost:3000/${photo.thumb.url}`
+      URLIMG = `https://animalfinder-api.herokuapp.com/${photo.thumb.url}`
     }
 
     return (

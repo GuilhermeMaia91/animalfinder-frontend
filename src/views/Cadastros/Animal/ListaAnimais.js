@@ -6,7 +6,7 @@ import api from '../../../services/api';
 function AnimalRow(props){
   debugger;
   const animal = props.animal
-  const URLIMAGE = `http://localhost:3000/${animal.photo.thumb.url}`
+  const URLIMAGE = `https://animalfinder-api.herokuapp.com/${animal.photo.thumb.url}`
   const URLCOMUNICAR = `/informar/${animal.id}`
 
   const getBadge = (status) => {
