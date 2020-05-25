@@ -1,0 +1,6 @@
+{
+  "name": "Proprietario",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Proprietario.js"
+}

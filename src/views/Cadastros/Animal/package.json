@@ -1,0 +1,6 @@
+{
+  "name": "Animal",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Animal.js"
+}
