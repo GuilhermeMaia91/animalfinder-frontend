@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Minimal instalation
+ - Node => 8^
+ - NPM or YARN => 6^
+
+This project was bootstrapped with [Create React App] acess and install via npm or yarn (https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
